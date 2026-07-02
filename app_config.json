@@ -2,7 +2,7 @@
   "configVersion": 1,
   "latestVersion": "1.0.0",
   "minimumVersion": "1.0.0",
-  "maintenance": folse,
+  "maintenance": false,
   "maintenanceMessage": "",
   "maintenanceMode": "full",
   "offlineStillAvailable": true,
