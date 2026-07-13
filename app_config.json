@@ -19,7 +19,7 @@
     "currency": "",
     "crypto": "",
     "fuel": "",
-    "mapsCdnBase": ""https://maps.uassistant.space""
+    "mapsCdnBase": "https://maps.uassistant.space"
   },
   "storeUrls": {
     "android": "https://play.google.com/store/apps/details?id=com.universalassistant.app",
