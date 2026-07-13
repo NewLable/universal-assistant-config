@@ -18,7 +18,7 @@
   "apiEndpoints": {
     "currency": "",
     "crypto": "",
-    "fuel": ""
+    "fuel": "",
     "mapsCdnBase": "https://pub-ee3100868ef54087911c2bc289f5ba8a.r2.dev"
   },
   "storeUrls": {
